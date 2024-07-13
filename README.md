@@ -3,6 +3,10 @@
 
 ---
 
+To play the app, click [here](https://tsimurkurchyshyn.github.io/Simple-Weather-App/)
+
+---
+
 This app was made by using languages such as HTML, CSS, and JavaScript.
 
 ---
